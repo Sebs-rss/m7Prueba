@@ -1,5 +1,5 @@
 ## Front-End bootcamp '24
-# "Prueba del módulo 7: Desarrollo de aplicación con Vue 🐾"
+# "Prueba del módulo 7: Desarrollo de aplicación con Vue 👾🌈"
 #### *Prueba del módulo 5: programación avanzada en JavaScript*
 >By Sebastián Sánchez
 
