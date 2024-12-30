@@ -14,5 +14,9 @@ module.exports = {
   coverageReporters: ['text', 'json-summary'], // Formatos para los reportes de cobertura
   testEnvironmentOptions: {
     customExportConditions: ['node', 'node-addons'] // Opciones adicionales para el entorno de pruebas
-  }
+  },
+  // ... other configurations ...
+  module: {
+    type: 'module',
+  }, 
 };

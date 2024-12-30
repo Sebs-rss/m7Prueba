@@ -1,4 +1,5 @@
 import { shallowMount } from "@vue/test-utils";
+/* const { shallowMount } = require('@vue/test-utils'); */
 import Ejercicio1View from "@/views/Ejercicio1View.vue";
 
 describe("Ejercicio1View", () => {
