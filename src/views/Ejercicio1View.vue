@@ -1,5 +1,6 @@
 <template>
     <h1>Ejercicio 1</h1>
+    <p>Ejecutando un contador usando el estado global con Vuex.</p>
     <div class="container" style="text-align: center">
     <h4>Contador</h4>
     <h5 class="container counter">{{ contador }}</h5>
@@ -54,4 +55,12 @@ export default {
     }
 }
 </script>
+
+<style scoped>
+ h1 {
+    color: #42b983;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+  }
+</style>
 

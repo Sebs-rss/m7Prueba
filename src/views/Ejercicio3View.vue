@@ -15,7 +15,9 @@
   </script>
   
   <style scoped>
-  h1 {
-    margin-bottom: 2rem;
+   h1 {
+    color: #42b983;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
   }
   </style>

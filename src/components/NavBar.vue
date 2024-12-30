@@ -1,8 +1,8 @@
 <template>
   <div>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <nav class="navbar navbar-expand-lg bg-body-secondary">
       <div class="container-fluid">
-        <router-link class="navbar-brand" to="/">M7 prueba</router-link>
+        <router-link class="navbar-brand" to="/">M7 prueba 🏡</router-link>
         <button
           class="navbar-toggler"
           type="button"
@@ -35,4 +35,8 @@ export default {
 };
 </script>
 
-<style scoped></style>
+<style scoped>
+.navbar {
+    width: 100vh;
+}
+</style>
