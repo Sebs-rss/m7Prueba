@@ -5,9 +5,9 @@
     <hr />
     <div class="container">
       <ul>
-        <li>Ej. 1: manejo de datos con Vuex</li>
-        <li>Ej. 2: navegación con VueRouter</li>
-        <li>Ej. 3: comunicación entre componentes</li>
+        <li>Ej. 1: manejo de datos con Vuex y unit tests</li>
+        <li>Ej. 2: navegación con VueRouter y unit tests</li>
+        <li>Ej. 3: comunicación entre componentes y unit tests</li>
         <li>Ej. 4: deploy en Firebase</li>
         <button>
           <a href="https://m7-prueba-edd80.web.app" class="btn btn-primary"
